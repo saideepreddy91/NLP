@@ -1,0 +1,15 @@
+dash==0.42.0
+dash-core-components==0.47.0
+dash-daq==0.1.0
+dash-html-components==0.16.0
+dash-renderer==0.23.0
+dash-table==3.6.0
+plotly==3.7.0
+
+numpy==1.16.2
+matplotlib==3.0.3
+
+scikit-learn==0.20.3
+nltk==3.4
+
+gunicorn
